@@ -23,7 +23,7 @@ There is a high-level summary of the results and two additional visualizations a
 ###User Trips by Gender
 
 ## Story 2 - 2 Visualizations
-##https://public.tableau.com/views/bikesharing_16074705411440/BikeRepairsVisualization?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+## https://public.tableau.com/views/bikesharing_16074705411440/BikeRepairsVisualization?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 ###Bike Repairs (How many trips per bike)
 
 ###Bike Utilization (Duration of trips per bike)
