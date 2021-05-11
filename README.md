@@ -1,7 +1,7 @@
 # Bikesharing Analysis
 
 ## Overview:
-The purpose of this bikesharing analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. In order to solidify the proposal, seven visualizations were created to show the times/dates when bikes are most used and a breakdown of citibike users.
+Using Python and the Pandas Library, I simulated a pitch to investors that a bike-sharing program in Des Moines is a solid business proposal. In order to solidify the proposal, seven visualizations were created to show the times/dates when bikes are most used and a breakdown of citibike users.
 
 ## Results:
 
